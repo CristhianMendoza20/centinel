@@ -1,0 +1,769 @@
+@import "tailwindcss";
+
+/* ══════════════════════════════════════════════════════════════════
+   CENTINEL — Design Tokens (Light / Dark)
+   Midnight Obsidian / Electric Cyan
+   ══════════════════════════════════════════════════════════════════ */
+
+/* ── Tema Claro (default) ──────────────────────────────────────── */
+:root {
+  /* Fondos */
+  --bg-primary:       #f0f4f8;
+  --bg-secondary:     #ffffff;
+  --bg-tertiary:      #e8edf3;
+  --bg-deep:          #dce3ec;
+  --bg-panel:         rgba(255, 255, 255, 0.85);
+  --bg-panel-hover:   rgba(240, 244, 248, 0.95);
+  --bg-input:         #f5f7fa;
+  --bg-overlay:       rgba(2, 13, 24, 0.40);
+  --bg-sidebar:       rgba(255, 255, 255, 0.92);
+  --bg-bottomnav:     rgba(255, 255, 255, 0.95);
+  --bg-card:          rgba(255, 255, 255, 0.88);
+
+  /* Texto */
+  --text-primary:     #0f172a;
+  --text-secondary:   #475569;
+  --text-tertiary:    #94a3b8;
+  --text-muted:       #cbd5e1;
+  --text-heading:     #1e293b;
+
+  /* Bordes */
+  --border-primary:   rgba(15, 23, 42, 0.12);
+  --border-secondary: rgba(15, 23, 42, 0.06);
+  --border-accent:    rgba(0, 210, 223, 0.30);
+  --border-input:     rgba(15, 23, 42, 0.15);
+
+  /* Acentos */
+  --accent-cyan:      #0891b2;
+  --accent-cyan-soft: rgba(8, 145, 178, 0.10);
+  --accent-red:       #dc2626;
+  --accent-red-soft:  rgba(220, 38, 38, 0.08);
+  --accent-amber:     #d97706;
+  --accent-amber-soft:rgba(217, 119, 6, 0.08);
+  --accent-green:     #059669;
+  --accent-blue:      #0284c7;
+
+  /* Glass / Panel */
+  --glass-bg:         rgba(255, 255, 255, 0.75);
+  --glass-border:     rgba(15, 23, 42, 0.08);
+  --glass-blur:       16px;
+  --glass-shadow:     0 4px 24px rgba(0, 0, 0, 0.06);
+
+  /* Glass variants */
+  --glass-cyan-border:  rgba(8, 145, 178, 0.25);
+  --glass-cyan-shadow:  0 0 12px rgba(8, 145, 178, 0.08), inset 0 0 8px rgba(8, 145, 178, 0.03);
+  --glass-red-border:   rgba(220, 38, 38, 0.25);
+  --glass-red-shadow:   0 0 12px rgba(220, 38, 38, 0.08), inset 0 0 8px rgba(220, 38, 38, 0.03);
+  --glass-gold-border:  rgba(217, 119, 6, 0.25);
+  --glass-gold-shadow:  0 0 12px rgba(217, 119, 6, 0.08), inset 0 0 8px rgba(217, 119, 6, 0.03);
+
+  /* Neon (desactivado en claro) */
+  --neon-cyan-color:   #0891b2;
+  --neon-cyan-shadow:  none;
+  --neon-red-color:    #dc2626;
+  --neon-red-shadow:   none;
+  --neon-gold-color:   #d97706;
+  --neon-gold-shadow:  none;
+
+  /* Scrollbar */
+  --scrollbar-track:  #e2e8f0;
+  --scrollbar-thumb:  rgba(8, 145, 178, 0.30);
+  --scrollbar-thumb-hover: rgba(8, 145, 178, 0.55);
+
+  /* KPI header line */
+  --kpi-line:         rgba(15, 23, 42, 0.12);
+  --kpi-line-red:     rgba(220, 38, 38, 0.30);
+  --kpi-line-cyan:    rgba(8, 145, 178, 0.30);
+  --kpi-line-gold:    rgba(217, 119, 6, 0.30);
+
+  /* Sidebar */
+  --sidebar-active-bg:     rgba(8, 145, 178, 0.08);
+  --sidebar-active-border: rgba(8, 145, 178, 0.40);
+  --sidebar-active-glow:   inset 0 0 12px rgba(8, 145, 178, 0.08);
+  --sidebar-hover-bg:      rgba(15, 23, 42, 0.04);
+  --sidebar-hover-border:  rgba(15, 23, 42, 0.08);
+  --sidebar-divider:       rgba(15, 23, 42, 0.08);
+
+  /* Alert Toast */
+  --toast-bg-red:     rgba(254, 242, 242, 0.97);
+  --toast-bg-cyan:    rgba(236, 254, 255, 0.97);
+  --toast-bg-amber:   rgba(255, 251, 235, 0.97);
+
+  /* Misc */
+  --selection-bg:     rgba(8, 145, 178, 0.20);
+  --focus-ring:       rgba(8, 145, 178, 0.40);
+  --focus-glow:       0 0 8px rgba(8, 145, 178, 0.15);
+  --cam-bg:           #e2e8f0;
+  --logo-text:        #0f172a;
+  --gradient-glow:    transparent;
+}
+
+/* ── Tema Oscuro (Estilo CENTINEL) ──────────────────── */
+.dark {
+  --bg-primary:       #020d18;
+  --bg-secondary:     #061524;
+  --bg-tertiary:      #0b1f33;
+  --bg-deep:          #010811;
+  --bg-panel:         rgba(6, 21, 36, 0.72);
+  --bg-panel-hover:   rgba(11, 31, 51, 0.85);
+  --bg-input:         #051220;
+  --bg-overlay:       rgba(2, 13, 24, 0.85);
+  --bg-sidebar:       rgba(6, 21, 36, 0.82);
+  --bg-bottomnav:     rgba(6, 21, 36, 0.95);
+  --bg-card:          rgba(11, 31, 51, 0.55);
+
+  --text-primary:     #e2e8f0;
+  --text-secondary:   #94a3b8;
+  --text-tertiary:    #64748b;
+  --text-muted:       #334155;
+  --text-heading:     #ffffff;
+
+  --border-primary:   rgba(30, 58, 88, 0.45);
+  --border-secondary: rgba(30, 58, 88, 0.25);
+  --border-accent:    rgba(0, 240, 255, 0.22);
+  --border-input:     #12283e;
+
+  --accent-cyan:      #00f0ff;
+  --accent-cyan-soft: rgba(0, 240, 255, 0.12);
+  --accent-red:       #ff3b3b;
+  --accent-red-soft:  rgba(255, 59, 59, 0.10);
+  --accent-amber:     #ffb800;
+  --accent-amber-soft:rgba(255, 184, 0, 0.10);
+  --accent-green:     #10b981;
+  --accent-blue:      #0284c7;
+
+  --glass-bg:         rgba(6, 21, 36, 0.70);
+  --glass-border:     rgba(0, 240, 255, 0.18);
+  --glass-blur:       16px;
+  --glass-shadow:     0 8px 32px rgba(2, 13, 24, 0.6);
+
+  --glass-cyan-border:  rgba(0, 240, 255, 0.4);
+  --glass-cyan-shadow:  0 0 25px rgba(0, 240, 255, 0.18), inset 0 0 15px rgba(0, 240, 255, 0.05);
+  --glass-red-border:   rgba(255, 59, 59, 0.4);
+  --glass-red-shadow:   0 0 25px rgba(255, 59, 59, 0.18), inset 0 0 15px rgba(255, 59, 59, 0.05);
+  --glass-gold-border:  rgba(255, 184, 0, 0.4);
+  --glass-gold-shadow:  0 0 25px rgba(255, 184, 0, 0.18), inset 0 0 15px rgba(255, 184, 0, 0.05);
+
+  --neon-cyan-color:   #00f0ff;
+  --neon-cyan-shadow:  0 0 12px rgba(0, 240, 255, 0.65);
+  --neon-red-color:    #ff3b3b;
+  --neon-red-shadow:   0 0 12px rgba(255, 59, 59, 0.65);
+  --neon-gold-color:   #ffb800;
+  --neon-gold-shadow:  0 0 12px rgba(255, 184, 0, 0.65);
+
+  --scrollbar-track:  rgba(2, 13, 24, 0.85);
+  --scrollbar-thumb:  rgba(0, 240, 255, 0.25);
+  --scrollbar-thumb-hover: rgba(0, 240, 255, 0.75);
+
+  --kpi-line:         rgba(255, 255, 255, 0.15);
+  --kpi-line-red:     rgba(255, 59, 59, 0.5);
+  --kpi-line-cyan:    rgba(0, 240, 255, 0.5);
+  --kpi-line-gold:    rgba(255, 184, 0, 0.5);
+
+  --sidebar-active-bg:     rgba(0, 240, 255, 0.08);
+  --sidebar-active-border: rgba(0, 240, 255, 0.45);
+  --sidebar-active-glow:   inset 0 0 20px rgba(0, 240, 255, 0.18);
+  --sidebar-hover-bg:      rgba(148, 163, 184, 0.06);
+  --sidebar-hover-border:  rgba(100, 116, 139, 0.25);
+  --sidebar-divider:       rgba(30, 58, 88, 0.40);
+
+  --toast-bg-red:     rgba(30, 6, 8, 0.97);
+  --toast-bg-cyan:    rgba(2, 26, 44, 0.97);
+  --toast-bg-amber:   rgba(32, 22, 4, 0.97);
+
+  --selection-bg:     rgba(0, 240, 255, 0.35);
+  --focus-ring:       rgba(0, 240, 255, 0.50);
+  --focus-glow:       0 0 12px rgba(0, 240, 255, 0.25);
+  --cam-bg:           #020d18;
+  --logo-text:        #ffffff;
+  --gradient-glow:    rgba(0, 240, 255, 0.04);
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   Tailwind v4: custom theme
+   ══════════════════════════════════════════════════════════════════ */
+@theme {
+  --animate-fade-in: fade-in 0.2s ease-out both;
+  --animate-scanline: scanline 4s linear infinite;
+  --animate-shrink: shrink 8s linear forwards;
+  --animate-pulse-ping: pulse-ping 1.2s cubic-bezier(0,0,0.2,1) infinite;
+}
+
+/* ── Keyframes globales ─────────────────────────────────────────── */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0);   }
+}
+@keyframes scanline {
+  0%   { top: -2px; }
+  100% { top: 100%; }
+}
+@keyframes shrink {
+  from { width: 100%; }
+  to   { width: 0%;   }
+}
+@keyframes pulse-ping {
+  75%, 100% { transform: scale(2); opacity: 0; }
+}
+@keyframes flash {
+  0%   { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+/* ── Base ────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body, #root {
+  height: 100%;
+  /* Para móviles con notch / barra de navegación */
+  height: 100dvh;
+}
+
+/* Transición suave al cambiar de tema */
+html {
+  transition: background-color 0.3s ease;
+}
+
+body {
+  background: var(--bg-secondary);
+  background-image:
+    radial-gradient(circle at 15% 50%, var(--gradient-glow), transparent 30%),
+    radial-gradient(circle at 85% 30%, var(--gradient-glow), transparent 30%);
+  color: var(--text-primary);
+  font-family: 'Manrope', 'Plus Jakarta Sans', 'Inter', ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+/* ── Keyframes de Alta Fidelidad ────────────────────────────────── */
+@keyframes shimmer-slide {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(200%); }
+}
+
+@keyframes radar-sweep {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes float-subtle {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-4px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.4; transform: scale(1); }
+  50%      { opacity: 0.8; transform: scale(1.04); }
+}
+
+@keyframes border-beam {
+  100% { offset-distance: 100%; }
+}
+
+/* --- TACTICAL GLASSMORPHISM --- */
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--glass-border);
+  border-radius: 12px;
+  box-shadow: var(--glass-shadow);
+  transition: all 0.3s ease;
+}
+
+.glass-panel-cyan {
+  border: 1px solid var(--glass-cyan-border);
+  box-shadow: var(--glass-cyan-shadow);
+}
+
+.glass-panel-red {
+  border: 1px solid var(--glass-red-border);
+  box-shadow: var(--glass-red-shadow);
+}
+
+.glass-panel-gold {
+  border: 1px solid var(--glass-gold-border);
+  box-shadow: var(--glass-gold-shadow);
+}
+
+.text-neon-cyan {
+  color: var(--neon-cyan-color);
+  text-shadow: var(--neon-cyan-shadow);
+}
+
+.text-neon-red {
+  color: var(--neon-red-color);
+  text-shadow: var(--neon-red-shadow);
+}
+
+.text-neon-gold {
+  color: var(--neon-gold-color);
+  text-shadow: var(--neon-gold-shadow);
+}
+
+.font-mono-code {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+/* --- LINEAS DE CABECERA (KPIs) --- */
+.kpi-header {
+  position: relative;
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+}
+.kpi-header::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, var(--kpi-line) 0%, transparent 100%);
+}
+
+.kpi-header-red::after {
+  background: linear-gradient(90deg, var(--kpi-line-red) 0%, transparent 100%);
+}
+
+.kpi-header-cyan::after {
+  background: linear-gradient(90deg, var(--kpi-line-cyan) 0%, transparent 100%);
+}
+
+.kpi-header-gold::after {
+  background: linear-gradient(90deg, var(--kpi-line-gold) 0%, transparent 100%);
+  --gradient-gold:    radial-gradient(circle at center, rgba(217, 119, 6, 0.15) 0%, transparent 60%);
+}
+
+/* ── Utilities ──────────────────────────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scaleUp {
+  from { opacity: 0; transform: scale(0.95) translateY(10px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+.animate-scale-up {
+  animation: scaleUp 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+/* ── Scrollbar CENTINEL ────────────────────────────────────────── */
+::-webkit-scrollbar              { width: 5px; height: 5px; }
+::-webkit-scrollbar-track        { background: var(--scrollbar-track); }
+::-webkit-scrollbar-thumb        { background: var(--scrollbar-thumb); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover  { background: var(--scrollbar-thumb-hover); }
+
+.custom-scrollbar::-webkit-scrollbar { width: 3px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 4px; }
+.custom-scrollbar::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover); }
+
+/* ── Selección de texto ────────────────────────────────────────── */
+::selection { background: var(--selection-bg); color: var(--text-heading); }
+
+/* ── Inputs focus ──────────────────────────────────────────────── */
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: var(--focus-ring);
+  box-shadow: var(--focus-glow);
+}
+
+/* ── Date input adaptativo ─────────────────────────────────────── */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+}
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(0.5) brightness(1.2);
+}
+
+/* ── Utilitarios custom (Tailwind v4: @utility) ─────────────────── */
+@layer utilities {
+  .animate-fade-in  { animation: fade-in 0.2s ease-out both; }
+  .animate-scanline { animation: scanline 4s linear infinite; }
+  .animate-shrink   { animation: shrink 8s linear forwards; }
+
+  /* h-dvh fallback */
+  .h-dvh { height: 100dvh; }
+
+  /* Safe area padding para iOS */
+  .pb-safe { padding-bottom: env(safe-area-inset-bottom, 0px); }
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   CITY MAP 3D — Estilos
+   ══════════════════════════════════════════════════════════════════ */
+
+/* ── Contenedor principal ──────────────────────────────────────── */
+.citymap-container {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  border-radius: 1rem;
+  overflow: hidden;
+  border: 1px solid var(--border-primary);
+  background: var(--bg-primary);
+}
+.citymap-container canvas {
+  border-radius: 1rem;
+}
+.citymap-compact {
+  height: 280px;
+  cursor: pointer;
+}
+
+/* ── Esquinas decorativas estilo CENTINEL/HUD ───────────────────────── */
+.citymap-corner {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  pointer-events: none;
+  z-index: 10;
+}
+.citymap-corner::before,
+.citymap-corner::after {
+  content: '';
+  position: absolute;
+  background: var(--accent-blue);
+  opacity: 0.5;
+}
+.citymap-corner-tl { top: 6px; left: 6px; }
+.citymap-corner-tl::before { top: 0; left: 0; width: 16px; height: 2px; }
+.citymap-corner-tl::after  { top: 0; left: 0; width: 2px; height: 16px; }
+
+.citymap-corner-tr { top: 6px; right: 6px; }
+.citymap-corner-tr::before { top: 0; right: 0; width: 16px; height: 2px; }
+.citymap-corner-tr::after  { top: 0; right: 0; width: 2px; height: 16px; }
+
+.citymap-corner-bl { bottom: 6px; left: 6px; }
+.citymap-corner-bl::before { bottom: 0; left: 0; width: 16px; height: 2px; }
+.citymap-corner-bl::after  { bottom: 0; left: 0; width: 2px; height: 16px; }
+
+.citymap-corner-br { bottom: 6px; right: 6px; }
+.citymap-corner-br::before { bottom: 0; right: 0; width: 16px; height: 2px; }
+.citymap-corner-br::after  { bottom: 0; right: 0; width: 2px; height: 16px; }
+
+/* ── HUD Overlay ───────────────────────────────────────────────── */
+.citymap-hud {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 10;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.citymap-hud-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.citymap-hud-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg-panel);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border-accent);
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent-blue);
+}
+
+.citymap-hud-pulse {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-blue);
+  box-shadow: 0 0 8px var(--accent-blue);
+  animation: citymap-pulse 2s ease-in-out infinite;
+}
+
+@keyframes citymap-pulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 4px var(--accent-blue); }
+  50% { opacity: 0.5; box-shadow: 0 0 12px var(--accent-blue); }
+}
+
+.citymap-hud-location {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  background: var(--bg-panel);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border-primary);
+  border-radius: 8px;
+  padding: 6px 12px;
+}
+
+.citymap-hud-city {
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  color: var(--text-primary);
+}
+
+.citymap-hud-coords {
+  font-size: 9px;
+  font-family: 'Courier New', monospace;
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+
+.citymap-hud-stats {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  display: flex;
+  gap: 8px;
+}
+
+.citymap-hud-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--bg-panel);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border-primary);
+  border-radius: 10px;
+  padding: 8px 14px;
+  min-width: 60px;
+}
+
+.citymap-hud-stat-value {
+  font-size: 18px;
+  font-weight: 900;
+  font-family: 'Courier New', monospace;
+  color: var(--accent-blue);
+  line-height: 1;
+}
+
+.citymap-hud-stat-label {
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  margin-top: 4px;
+}
+
+.citymap-hud-altitude {
+  position: absolute;
+  top: 50%;
+  right: 16px;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--bg-panel);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(16, 185, 129, 0.25);
+  border-radius: 8px;
+  padding: 5px 10px;
+  font-size: 9px;
+  font-weight: 700;
+  font-family: 'Courier New', monospace;
+  color: var(--accent-green);
+}
+
+.citymap-hud-alt-icon {
+  font-size: 7px;
+}
+
+.citymap-hud-clock {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  font-size: 11px;
+  font-weight: 900;
+  font-family: 'Courier New', monospace;
+  color: var(--text-muted);
+  background: var(--bg-panel);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border-secondary);
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+
+.citymap-hud-controls {
+  position: absolute;
+  bottom: 50px;
+  right: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  font-size: 8px;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+/* ── Tooltip de cámara ─────────────────────────────────────────── */
+.citymap-tooltip {
+  background: var(--bg-panel);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border-accent);
+  border-radius: 10px;
+  padding: 10px 14px;
+  min-width: 180px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+}
+
+.citymap-tooltip-name {
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+.citymap-tooltip-zone {
+  font-size: 9px;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  margin-bottom: 6px;
+}
+
+.citymap-tooltip-status {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 8px;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+
+.citymap-tooltip-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+
+.citymap-tooltip-dot.online {
+  background: var(--accent-green);
+  box-shadow: 0 0 6px var(--accent-green);
+  color: var(--accent-green);
+}
+
+.citymap-tooltip-dot.alert {
+  background: #ef4444;
+  box-shadow: 0 0 6px #ef4444;
+  color: #ef4444;
+  animation: citymap-pulse 1s ease-in-out infinite;
+}
+
+/* ── Título compacto (para preview en dashboard) ───────────────── */
+.citymap-compact-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: linear-gradient(to top, var(--bg-panel), transparent);
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent-blue);
+  pointer-events: none;
+}
+
+.citymap-compact-pulse {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent-blue);
+  box-shadow: 0 0 6px var(--accent-blue);
+  animation: citymap-pulse 2s ease-in-out infinite;
+}
+
+/* ── Loading screen ────────────────────────────────────────────── */
+.citymap-loading {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  background: var(--bg-primary);
+  z-index: 20;
+}
+
+.citymap-loading-spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--border-primary);
+  border-top-color: var(--accent-blue);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.citymap-loading-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.citymap-loading-title {
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--text-secondary);
+  letter-spacing: 0.1em;
+}
+
+.citymap-loading-subtitle {
+  font-size: 9px;
+  color: var(--text-tertiary);
+  font-family: 'Courier New', monospace;
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .citymap-container {
+    height: 350px;
+  }
+  .citymap-compact {
+    height: 220px;
+  }
+  .citymap-hud-stats {
+    gap: 4px;
+  }
+  .citymap-hud-stat {
+    padding: 6px 10px;
+    min-width: 48px;
+  }
+  .citymap-hud-stat-value {
+    font-size: 14px;
+  }
+  .citymap-hud-controls {
+    display: none;
+  }
+  .citymap-hud-altitude {
+    display: none;
+  }
+}

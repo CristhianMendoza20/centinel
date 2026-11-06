@@ -1,0 +1,4418 @@
+[
+  {
+    "id": 1785248819601,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 69.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_d4fddcc3.jpg",
+    "ropa": "Torso Blanco, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:26:59.601Z"
+  },
+  {
+    "id": 1785248814516,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_770dcf13.jpg",
+    "ropa": "Torso Blanco, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:26:54.516Z"
+  },
+  {
+    "id": 1785248792480,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_ebd525f0.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:26:32.480Z"
+  },
+  {
+    "id": 1785248787125,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_6f471114.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:26:27.125Z"
+  },
+  {
+    "id": 1785248781843,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 66.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_06065276.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:26:21.843Z"
+  },
+  {
+    "id": 1785248771640,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_3779ff8f.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:26:11.640Z"
+  },
+  {
+    "id": 1785248766643,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_1e8019dc.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:26:06.643Z"
+  },
+  {
+    "id": 1785247644528,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 66.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_e9fa269f.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:07:24.528Z"
+  },
+  {
+    "id": 1785247639466,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 66.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_61bbee9f.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:07:19.466Z"
+  },
+  {
+    "id": 1785247634432,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 69.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_b9125558.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:07:14.432Z"
+  },
+  {
+    "id": 1785247629290,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 64.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_8e158b28.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:07:09.290Z"
+  },
+  {
+    "id": 1785247606489,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 66.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_c1e8be5c.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:46.489Z"
+  },
+  {
+    "id": 1785247601243,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 67,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_961111e9.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:41.243Z"
+  },
+  {
+    "id": 1785247596063,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_acc7131c.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:36.063Z"
+  },
+  {
+    "id": 1785247591013,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_dd298206.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:31.013Z"
+  },
+  {
+    "id": 1785247585893,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 64.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_6e16c75b.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:25.893Z"
+  },
+  {
+    "id": 1785247580748,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 67.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_c3b87832.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:20.748Z"
+  },
+  {
+    "id": 1785247575755,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 68.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_6ec707d2.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:15.755Z"
+  },
+  {
+    "id": 1785247570538,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 67.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_da70ce0e.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:10.538Z"
+  },
+  {
+    "id": 1785247560276,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 66.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_b259631a.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:06:00.276Z"
+  },
+  {
+    "id": 1785247554966,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 63.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_b2749768.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:05:54.966Z"
+  },
+  {
+    "id": 1785247549752,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 64.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_80c4ea43.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:05:49.752Z"
+  },
+  {
+    "id": 1785247544494,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 64.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_cef8c8d0.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:05:44.494Z"
+  },
+  {
+    "id": 1785247534123,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 66.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_c74374b5.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:05:34.123Z"
+  },
+  {
+    "id": 1785247523650,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 65.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_37d4ef16.jpg",
+    "ropa": "Torso Gris, Piernas Gris",
+    "fecha_hora": "2026-07-28T14:05:23.650Z"
+  },
+  {
+    "id": 1785247518375,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_461bda7b.jpg",
+    "ropa": "Torso Blanco, Piernas Blanco",
+    "fecha_hora": "2026-07-28T14:05:18.375Z"
+  },
+  {
+    "id": 1785244421973,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_21d88f3f.jpg",
+    "fecha_hora": "2026-07-28T13:13:41.973Z"
+  },
+  {
+    "id": 1785244415009,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_32a562ae.jpg",
+    "fecha_hora": "2026-07-28T13:13:35.009Z"
+  },
+  {
+    "id": 1785244377461,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_3999b895.jpg",
+    "fecha_hora": "2026-07-28T13:12:57.461Z"
+  },
+  {
+    "id": 1785244341297,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_1a850a7a.jpg",
+    "fecha_hora": "2026-07-28T13:12:21.297Z"
+  },
+  {
+    "id": 1785244335763,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_81f0eaf0.jpg",
+    "fecha_hora": "2026-07-28T13:12:15.763Z"
+  },
+  {
+    "id": 1785244329158,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_2a21212e.jpg",
+    "fecha_hora": "2026-07-28T13:12:09.158Z"
+  },
+  {
+    "id": 1785244323846,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_a664ee83.jpg",
+    "fecha_hora": "2026-07-28T13:12:03.846Z"
+  },
+  {
+    "id": 1785244313102,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_efeb1252.jpg",
+    "fecha_hora": "2026-07-28T13:11:53.102Z"
+  },
+  {
+    "id": 1785244307295,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_42f82e07.jpg",
+    "fecha_hora": "2026-07-28T13:11:47.295Z"
+  },
+  {
+    "id": 1785176062881,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 67.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_e9b3f111.jpg",
+    "fecha_hora": "2026-07-27T18:14:22.881Z"
+  },
+  {
+    "id": 1785176057320,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 68.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_6c8036a2.jpg",
+    "fecha_hora": "2026-07-27T18:14:17.320Z"
+  },
+  {
+    "id": 1785176052069,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 73.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_52d49aa0.jpg",
+    "fecha_hora": "2026-07-27T18:14:12.069Z"
+  },
+  {
+    "id": 1785176043479,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 71,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_5bc63dc0.jpg",
+    "fecha_hora": "2026-07-27T18:14:03.479Z"
+  },
+  {
+    "id": 1785176038296,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 64.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_b436b166.jpg",
+    "fecha_hora": "2026-07-27T18:13:58.296Z"
+  },
+  {
+    "id": 1785175995996,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_9b9b4556.jpg",
+    "fecha_hora": "2026-07-27T18:13:15.996Z"
+  },
+  {
+    "id": 1785175982969,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_5a63a873.jpg",
+    "fecha_hora": "2026-07-27T18:13:02.969Z"
+  },
+  {
+    "id": 1785175766298,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_ea652ba3.jpg",
+    "fecha_hora": "2026-07-27T18:09:26.298Z"
+  },
+  {
+    "id": 1785175746517,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_18a679fc.jpg",
+    "fecha_hora": "2026-07-27T18:09:06.517Z"
+  },
+  {
+    "id": 1785175740995,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_412f3685.jpg",
+    "fecha_hora": "2026-07-27T18:09:00.995Z"
+  },
+  {
+    "id": 1785175735650,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_a74aa04b.jpg",
+    "fecha_hora": "2026-07-27T18:08:55.650Z"
+  },
+  {
+    "id": 1785175730394,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_497cfa1e.jpg",
+    "fecha_hora": "2026-07-27T18:08:50.394Z"
+  },
+  {
+    "id": 1785175723441,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_f1a455bd.jpg",
+    "fecha_hora": "2026-07-27T18:08:43.441Z"
+  },
+  {
+    "id": 1785175303237,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_6e9b1257.jpg",
+    "fecha_hora": "2026-07-27T18:01:43.237Z"
+  },
+  {
+    "id": 1785175290003,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_703322b7.jpg",
+    "fecha_hora": "2026-07-27T18:01:30.003Z"
+  },
+  {
+    "id": 1785175284435,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_7e30ac8b.jpg",
+    "fecha_hora": "2026-07-27T18:01:24.435Z"
+  },
+  {
+    "id": 1785174941142,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_3cbde2ae.jpg",
+    "fecha_hora": "2026-07-27T17:55:41.142Z"
+  },
+  {
+    "id": 1785174935119,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_6fb94209.jpg",
+    "fecha_hora": "2026-07-27T17:55:35.119Z"
+  },
+  {
+    "id": 1785174927423,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_646301a4.jpg",
+    "fecha_hora": "2026-07-27T17:55:27.423Z"
+  },
+  {
+    "id": 1785174367003,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 63.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_5a0db920.jpg",
+    "fecha_hora": "2026-07-27T17:46:07.003Z"
+  },
+  {
+    "id": 1785174360970,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_a6eda05a.jpg",
+    "fecha_hora": "2026-07-27T17:46:00.970Z"
+  },
+  {
+    "id": 1785174261402,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_bbfa6542.jpg",
+    "fecha_hora": "2026-07-27T17:44:21.402Z"
+  },
+  {
+    "id": 1785174255182,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_a5d31def.jpg",
+    "fecha_hora": "2026-07-27T17:44:15.182Z"
+  },
+  {
+    "id": 1785174242308,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_4887a85a.jpg",
+    "fecha_hora": "2026-07-27T17:44:02.308Z"
+  },
+  {
+    "id": 1785174235319,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_b7bcb3ac.jpg",
+    "fecha_hora": "2026-07-27T17:43:55.319Z"
+  },
+  {
+    "id": 1785174195249,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_fd9ae652.jpg",
+    "fecha_hora": "2026-07-27T17:43:15.249Z"
+  },
+  {
+    "id": 1784924572698,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 48.8,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_e2d62b02.jpg",
+    "fecha_hora": "2026-07-24T20:22:52.698Z"
+  },
+  {
+    "id": 1784924552090,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "claudia",
+    "nivel_confianza": 46.5,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_c32374c2.jpg",
+    "fecha_hora": "2026-07-24T20:22:32.090Z"
+  },
+  {
+    "id": 1784924535102,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "claudia",
+    "nivel_confianza": 46,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_bfabcb15.jpg",
+    "fecha_hora": "2026-07-24T20:22:15.102Z"
+  },
+  {
+    "id": 1784924341012,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 45.6,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_37094479.jpg",
+    "fecha_hora": "2026-07-24T20:19:01.012Z"
+  },
+  {
+    "id": 1784924333169,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "claudia",
+    "nivel_confianza": 45.1,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_beed9e71.jpg",
+    "fecha_hora": "2026-07-24T20:18:53.170Z"
+  },
+  {
+    "id": 1784924327826,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "claudia",
+    "nivel_confianza": 45.4,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_461b1918.jpg",
+    "fecha_hora": "2026-07-24T20:18:47.826Z"
+  },
+  {
+    "id": 1784924187054,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 45.3,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_e28765b6.jpg",
+    "fecha_hora": "2026-07-24T20:16:27.054Z"
+  },
+  {
+    "id": 1784923758855,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_9b3d0fbb.jpg",
+    "fecha_hora": "2026-07-24T20:09:18.855Z"
+  },
+  {
+    "id": 1784923753966,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_de638ed4.jpg",
+    "fecha_hora": "2026-07-24T20:09:13.966Z"
+  },
+  {
+    "id": 1784923476545,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_d460f451.jpg",
+    "fecha_hora": "2026-07-24T20:04:36.545Z"
+  },
+  {
+    "id": 1784923471185,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_d6643d4e.jpg",
+    "fecha_hora": "2026-07-24T20:04:31.185Z"
+  },
+  {
+    "id": 1784923465738,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 45.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_02712ca3.jpg",
+    "fecha_hora": "2026-07-24T20:04:25.738Z"
+  },
+  {
+    "id": 1784923321741,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_2166a8d0.jpg",
+    "fecha_hora": "2026-07-24T20:02:01.741Z"
+  },
+  {
+    "id": 1784923314626,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_133c0722.jpg",
+    "fecha_hora": "2026-07-24T20:01:54.626Z"
+  },
+  {
+    "id": 1784923010067,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_47bf6f5d.jpg",
+    "fecha_hora": "2026-07-24T19:56:50.067Z"
+  },
+  {
+    "id": 1784923007518,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 68.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_d9f1b050.jpg",
+    "fecha_hora": "2026-07-24T19:56:47.518Z"
+  },
+  {
+    "id": 1784923004460,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_aa2a286d.jpg",
+    "fecha_hora": "2026-07-24T19:56:44.460Z"
+  },
+  {
+    "id": 1784923000075,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 68.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_6344ba97.jpg",
+    "fecha_hora": "2026-07-24T19:56:40.075Z"
+  },
+  {
+    "id": 1784922997311,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 63.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_94822507.jpg",
+    "fecha_hora": "2026-07-24T19:56:37.311Z"
+  },
+  {
+    "id": 1784922993265,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 70.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_16d071cb.jpg",
+    "fecha_hora": "2026-07-24T19:56:33.265Z"
+  },
+  {
+    "id": 1784922988829,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 63.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_a0dd5640.jpg",
+    "fecha_hora": "2026-07-24T19:56:28.829Z"
+  },
+  {
+    "id": 1784922986790,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 67,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_d95cffc3.jpg",
+    "fecha_hora": "2026-07-24T19:56:26.790Z"
+  },
+  {
+    "id": 1784922982246,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 63.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_4b1af2d6.jpg",
+    "fecha_hora": "2026-07-24T19:56:22.246Z"
+  },
+  {
+    "id": 1784922980675,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 45.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_5f5ce71f.jpg",
+    "fecha_hora": "2026-07-24T19:56:20.675Z"
+  },
+  {
+    "id": 1784922901037,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 45.2,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_7ca8b5a2.jpg",
+    "fecha_hora": "2026-07-24T19:55:01.037Z"
+  },
+  {
+    "id": 1784922736025,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_b101193e.jpg",
+    "fecha_hora": "2026-07-24T19:52:16.025Z"
+  },
+  {
+    "id": 1784922732815,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 68.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_5a5ccba6.jpg",
+    "fecha_hora": "2026-07-24T19:52:12.815Z"
+  },
+  {
+    "id": 1784922726928,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_b9f5b530.jpg",
+    "fecha_hora": "2026-07-24T19:52:06.928Z"
+  },
+  {
+    "id": 1784922725285,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 66.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_e67c4f57.jpg",
+    "fecha_hora": "2026-07-24T19:52:05.285Z"
+  },
+  {
+    "id": 1784922708944,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 65.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_21f697fb.jpg",
+    "fecha_hora": "2026-07-24T19:51:48.944Z"
+  },
+  {
+    "id": 1784922698006,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 55.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_be9fc8cf.jpg",
+    "fecha_hora": "2026-07-24T19:51:38.006Z"
+  },
+  {
+    "id": 1784922691072,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 70.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_71cb3036.jpg",
+    "fecha_hora": "2026-07-24T19:51:31.072Z"
+  },
+  {
+    "id": 1784922685593,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 73.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_7ad8f9de.jpg",
+    "fecha_hora": "2026-07-24T19:51:25.593Z"
+  },
+  {
+    "id": 1784922679206,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 68.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_e232d9dc.jpg",
+    "fecha_hora": "2026-07-24T19:51:19.206Z"
+  },
+  {
+    "id": 1784922673742,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 68.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_b20bd764.jpg",
+    "fecha_hora": "2026-07-24T19:51:13.742Z"
+  },
+  {
+    "id": 1784922667278,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 68.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_b3d9ee0c.jpg",
+    "fecha_hora": "2026-07-24T19:51:07.278Z"
+  },
+  {
+    "id": 1784922665294,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 54.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_ea6f0da0.jpg",
+    "fecha_hora": "2026-07-24T19:51:05.294Z"
+  },
+  {
+    "id": 1784922657954,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 64.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_f3664623.jpg",
+    "fecha_hora": "2026-07-24T19:50:57.954Z"
+  },
+  {
+    "id": 1784922652737,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 62.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_d6873880.jpg",
+    "fecha_hora": "2026-07-24T19:50:52.737Z"
+  },
+  {
+    "id": 1784921508472,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 47.8,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_93bc3fc9.jpg",
+    "fecha_hora": "2026-07-24T19:31:48.472Z"
+  },
+  {
+    "id": 1784921502815,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 46.8,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_233c2400.jpg",
+    "fecha_hora": "2026-07-24T19:31:42.815Z"
+  },
+  {
+    "id": 1784921497703,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 46.1,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_ab1e3c92.jpg",
+    "fecha_hora": "2026-07-24T19:31:37.703Z"
+  },
+  {
+    "id": 1784921492530,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 46.7,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_9e8a25a5.jpg",
+    "fecha_hora": "2026-07-24T19:31:32.530Z"
+  },
+  {
+    "id": 1784921487263,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 46.1,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_c6f72c62.jpg",
+    "fecha_hora": "2026-07-24T19:31:27.263Z"
+  },
+  {
+    "id": 1784921481231,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 45.4,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_af6b39fd.jpg",
+    "fecha_hora": "2026-07-24T19:31:21.231Z"
+  },
+  {
+    "id": 1784921404749,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 46.1,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_5317b428.jpg",
+    "fecha_hora": "2026-07-24T19:30:04.749Z"
+  },
+  {
+    "id": 1784921397776,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 48.8,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_d71695b5.jpg",
+    "fecha_hora": "2026-07-24T19:29:57.776Z"
+  },
+  {
+    "id": 1784921391365,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.6,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_6052e071.jpg",
+    "fecha_hora": "2026-07-24T19:29:51.365Z"
+  },
+  {
+    "id": 1784921383000,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 46,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_ed5670d7.jpg",
+    "fecha_hora": "2026-07-24T19:29:43.000Z"
+  },
+  {
+    "id": 1784921376498,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.1,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_f57e7c52.jpg",
+    "fecha_hora": "2026-07-24T19:29:36.498Z"
+  },
+  {
+    "id": 1784921371030,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 52.1,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_e7f10a75.jpg",
+    "fecha_hora": "2026-07-24T19:29:31.030Z"
+  },
+  {
+    "id": 1784921346184,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 47,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_51594d8c.jpg",
+    "fecha_hora": "2026-07-24T19:29:06.184Z"
+  },
+  {
+    "id": 1784921339098,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.5,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_777b1c42.jpg",
+    "fecha_hora": "2026-07-24T19:28:59.098Z"
+  },
+  {
+    "id": 1784921333216,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.5,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_128541af.jpg",
+    "fecha_hora": "2026-07-24T19:28:53.216Z"
+  },
+  {
+    "id": 1784921327909,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 51.9,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_02bdcc8f.jpg",
+    "fecha_hora": "2026-07-24T19:28:47.909Z"
+  },
+  {
+    "id": 1784921320024,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 46.4,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_779450d4.jpg",
+    "fecha_hora": "2026-07-24T19:28:40.024Z"
+  },
+  {
+    "id": 1784921314103,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 49.4,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_d62f75a1.jpg",
+    "fecha_hora": "2026-07-24T19:28:34.103Z"
+  },
+  {
+    "id": 1784921304915,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 49.7,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_806225cc.jpg",
+    "fecha_hora": "2026-07-24T19:28:24.915Z"
+  },
+  {
+    "id": 1784921299224,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.7,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_2f414acc.jpg",
+    "fecha_hora": "2026-07-24T19:28:19.224Z"
+  },
+  {
+    "id": 1784921292677,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 46.7,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_74490303.jpg",
+    "fecha_hora": "2026-07-24T19:28:12.677Z"
+  },
+  {
+    "id": 1784921286611,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.2,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_9869e3b5.jpg",
+    "fecha_hora": "2026-07-24T19:28:06.611Z"
+  },
+  {
+    "id": 1784921276240,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 49.6,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_6d483e61.jpg",
+    "fecha_hora": "2026-07-24T19:27:56.240Z"
+  },
+  {
+    "id": 1784921262903,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 49.2,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_cfc10235.jpg",
+    "fecha_hora": "2026-07-24T19:27:42.903Z"
+  },
+  {
+    "id": 1784921256067,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.5,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_93e45d77.jpg",
+    "fecha_hora": "2026-07-24T19:27:36.067Z"
+  },
+  {
+    "id": 1784921251681,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 46.3,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_92b7c946.jpg",
+    "fecha_hora": "2026-07-24T19:27:31.681Z"
+  },
+  {
+    "id": 1784921245061,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 46,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_435b23bd.jpg",
+    "fecha_hora": "2026-07-24T19:27:25.062Z"
+  },
+  {
+    "id": 1784921239495,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.4,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_354c6d8a.jpg",
+    "fecha_hora": "2026-07-24T19:27:19.495Z"
+  },
+  {
+    "id": 1784921233779,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 46,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_4cd2dbd9.jpg",
+    "fecha_hora": "2026-07-24T19:27:13.779Z"
+  },
+  {
+    "id": 1784921228018,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 45.9,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_87b0e1be.jpg",
+    "fecha_hora": "2026-07-24T19:27:08.018Z"
+  },
+  {
+    "id": 1784921222362,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 47.1,
+    "ubicacion_camara": "Recepcion",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_e2d73537.jpg",
+    "fecha_hora": "2026-07-24T19:27:02.362Z"
+  },
+  {
+    "id": 1784920824896,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 47.6,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_edbf1aaf.jpg",
+    "fecha_hora": "2026-07-24T19:20:24.896Z"
+  },
+  {
+    "id": 1784920775928,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 46.1,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_b8e01f6e.jpg",
+    "fecha_hora": "2026-07-24T19:19:35.928Z"
+  },
+  {
+    "id": 1784920744228,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 49,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_239ecd54.jpg",
+    "fecha_hora": "2026-07-24T19:19:04.228Z"
+  },
+  {
+    "id": 1784920708759,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 50.1,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/sospechosos/SOSPECHOSO_bc184417.jpg",
+    "fecha_hora": "2026-07-24T19:18:28.759Z"
+  },
+  {
+    "id": 1784920620001,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 45.3,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_ff263f58.jpg",
+    "fecha_hora": "2026-07-24T19:17:00.001Z"
+  },
+  {
+    "id": 1784920502540,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "claudia",
+    "nivel_confianza": 46.6,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_ff588579.jpg",
+    "fecha_hora": "2026-07-24T19:15:02.540Z"
+  },
+  {
+    "id": 1784917355779,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 49.5,
+    "ubicacion_camara": "Pasillo",
+    "foto_captura": "http://localhost:5000/capturas/desaparecidos/DESAPARECIDO_8148d914.jpg",
+    "fecha_hora": "2026-07-24T18:22:35.779Z"
+  },
+  {
+    "id": 1784900018158,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 45.2,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-24T13:33:38.158Z"
+  },
+  {
+    "id": 1784839473696,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.2,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:44:33.696Z"
+  },
+  {
+    "id": 1784839468329,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.6,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:44:28.329Z"
+  },
+  {
+    "id": 1784839462935,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:44:22.935Z"
+  },
+  {
+    "id": 1784839457602,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.4,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:44:17.602Z"
+  },
+  {
+    "id": 1784839452528,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.4,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:44:12.528Z"
+  },
+  {
+    "id": 1784839447189,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 49,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:44:07.189Z"
+  },
+  {
+    "id": 1784839168906,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 63.9,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:39:28.906Z"
+  },
+  {
+    "id": 1784839163306,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 60.1,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:39:23.306Z"
+  },
+  {
+    "id": 1784839157180,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "brayhan ",
+    "nivel_confianza": 45.2,
+    "ubicacion_camara": "Recepcion",
+    "fecha_hora": "2026-07-23T20:39:17.180Z"
+  },
+  {
+    "id": 1784810569366,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T12:42:49.366Z"
+  },
+  {
+    "id": 1784810559697,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 54.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T12:42:39.697Z"
+  },
+  {
+    "id": 1784810377815,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T12:39:37.815Z"
+  },
+  {
+    "id": 1784810367973,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 48.7,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T12:39:27.973Z"
+  },
+  {
+    "id": 1784810359257,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T12:39:19.257Z"
+  },
+  {
+    "id": 1784810350602,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T12:39:10.602Z"
+  },
+  {
+    "id": 1784779808216,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 54.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T04:10:08.216Z"
+  },
+  {
+    "id": 1784779799417,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T04:09:59.417Z"
+  },
+  {
+    "id": 1784779791431,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T04:09:51.431Z"
+  },
+  {
+    "id": 1784779779971,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 49.6,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T04:09:39.971Z"
+  },
+  {
+    "id": 1784777800583,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:36:40.583Z"
+  },
+  {
+    "id": 1784777788471,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.4,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:36:28.471Z"
+  },
+  {
+    "id": 1784777777456,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:36:17.456Z"
+  },
+  {
+    "id": 1784777768893,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.3,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:36:08.893Z"
+  },
+  {
+    "id": 1784777758461,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 53.9,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:35:58.461Z"
+  },
+  {
+    "id": 1784777680276,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 52.8,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:34:40.276Z"
+  },
+  {
+    "id": 1784777660185,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:34:20.185Z"
+  },
+  {
+    "id": 1784777650090,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:34:10.090Z"
+  },
+  {
+    "id": 1784777639181,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 48.2,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:33:59.181Z"
+  },
+  {
+    "id": 1784777627366,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.5,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:33:47.366Z"
+  },
+  {
+    "id": 1784777616727,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 51.1,
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "fecha_hora": "2026-07-23T03:33:36.727Z"
+  },
+  {
+    "id": 1784745850972,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 48.3,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T18:44:10.972Z"
+  },
+  {
+    "id": 1784745814843,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 64.9,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T18:43:34.843Z"
+  },
+  {
+    "id": 1784745796992,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.3,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T18:43:16.992Z"
+  },
+  {
+    "id": 1784745706791,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.6,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T18:41:46.791Z"
+  },
+  {
+    "id": 1784745512764,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.8,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T18:38:32.764Z"
+  },
+  {
+    "id": 1784745504036,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 51.1,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T18:38:24.036Z"
+  },
+  {
+    "id": 1784739999710,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.1,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T17:06:39.710Z"
+  },
+  {
+    "id": 1784739988653,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 63.2,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T17:06:28.653Z"
+  },
+  {
+    "id": 1784739980943,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.4,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-07-22T17:06:20.943Z"
+  },
+  {
+    "id": 1782270934555,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 54.1,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-24T03:15:34.555Z"
+  },
+  {
+    "id": 1782270924401,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-24T03:15:24.401Z"
+  },
+  {
+    "id": 1782251412541,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 66,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-23T21:50:12.541Z"
+  },
+  {
+    "id": 1782251405868,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.5,
+    "ubicacion_camara": "CAM 02 — IP Celular",
+    "fecha_hora": "2026-06-23T21:50:05.868Z"
+  },
+  {
+    "id": 1782251404977,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.3,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-23T21:50:04.977Z"
+  },
+  {
+    "id": 1782251396908,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.7,
+    "ubicacion_camara": "CAM 02 — IP Celular",
+    "fecha_hora": "2026-06-23T21:49:56.908Z"
+  },
+  {
+    "id": 1782251388368,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 51.8,
+    "ubicacion_camara": "CAM 02 — IP Celular",
+    "fecha_hora": "2026-06-23T21:49:48.368Z"
+  },
+  {
+    "id": 1782251130647,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 53.7,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-23T21:45:30.647Z"
+  },
+  {
+    "id": 1782251122067,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.1,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-23T21:45:22.067Z"
+  },
+  {
+    "id": 1782251088131,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.4,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-23T21:44:48.131Z"
+  },
+  {
+    "id": 1782251079455,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.4,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-23T21:44:39.455Z"
+  },
+  {
+    "id": 1782251070570,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.8,
+    "ubicacion_camara": "CAM 01 — Ingreso Principal",
+    "fecha_hora": "2026-06-23T21:44:30.570Z"
+  },
+  {
+    "id": 1781639780639,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "claudia",
+    "nivel_confianza": 61.031508058242736,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T19:56:20.639Z"
+  },
+  {
+    "id": 1781639772991,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "claudia",
+    "nivel_confianza": 69.18224005764107,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T19:56:12.991Z"
+  },
+  {
+    "id": 1781639767505,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "claudia",
+    "nivel_confianza": 61.21566108964449,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T19:56:07.505Z"
+  },
+  {
+    "id": 1781639532602,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.756200593781905,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:52:12.602Z"
+  },
+  {
+    "id": 1781639527127,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 59.04992147114791,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:52:07.127Z"
+  },
+  {
+    "id": 1781639521698,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 50.46107053852016,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:52:01.698Z"
+  },
+  {
+    "id": 1781639516264,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 51.87642195253454,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:56.264Z"
+  },
+  {
+    "id": 1781639511060,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 61.09861182302934,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:51.060Z"
+  },
+  {
+    "id": 1781639505206,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 60.974016424006216,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:45.206Z"
+  },
+  {
+    "id": 1781639499546,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 57.935168636918455,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:39.546Z"
+  },
+  {
+    "id": 1781639493882,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 58.44565588120696,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:33.882Z"
+  },
+  {
+    "id": 1781639486566,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 60.63750499638941,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:26.566Z"
+  },
+  {
+    "id": 1781639471480,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 54.44875861601061,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:11.480Z"
+  },
+  {
+    "id": 1781639466079,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 58.55039454711369,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:06.079Z"
+  },
+  {
+    "id": 1781639460449,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 63.70173469241753,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:51:00.449Z"
+  },
+  {
+    "id": 1781639455289,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 60.479016122785346,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:50:55.289Z"
+  },
+  {
+    "id": 1781639450130,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 61.07304035604118,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:50:50.130Z"
+  },
+  {
+    "id": 1781639445049,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 62.84614035761524,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:50:45.049Z"
+  },
+  {
+    "id": 1781639439672,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 51.77505910986899,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:50:39.672Z"
+  },
+  {
+    "id": 1781639434482,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 57.92291410242309,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:50:34.482Z"
+  },
+  {
+    "id": 1781639429921,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 61.634460818009195,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:50:29.921Z"
+  },
+  {
+    "id": 1781639423112,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 45.92220530840299,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T19:50:23.112Z"
+  },
+  {
+    "id": 1781639422491,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 67.31320231358924,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:50:22.491Z"
+  },
+  {
+    "id": 1781639417113,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 53.982490739622534,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T19:50:17.113Z"
+  },
+  {
+    "id": 1781639411433,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "rolando",
+    "nivel_confianza": 45.540356113836324,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T19:50:11.433Z"
+  },
+  {
+    "id": 1781639385477,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 50.432927091573966,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T19:49:45.477Z"
+  },
+  {
+    "id": 1781628881898,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.142102128055775,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T16:54:41.898Z"
+  },
+  {
+    "id": 1781628862084,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.01033034321684,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T16:54:22.084Z"
+  },
+  {
+    "id": 1781628857277,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.83239736163013,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T16:54:17.277Z"
+  },
+  {
+    "id": 1781628851612,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.64830070551802,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-16T16:54:11.612Z"
+  },
+  {
+    "id": 1781628839295,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.641637511226236,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-16T16:53:59.295Z"
+  },
+  {
+    "id": 1781492058770,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 49.1608762028803,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-15T02:54:18.770Z"
+  },
+  {
+    "id": 1781492053647,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 52.973386820235156,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-15T02:54:13.647Z"
+  },
+  {
+    "id": 1781492046472,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.60430541237693,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-15T02:54:06.472Z"
+  },
+  {
+    "id": 1781492045826,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 60.66107028144665,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-15T02:54:05.826Z"
+  },
+  {
+    "id": 1781492040721,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.67413786178373,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-15T02:54:00.721Z"
+  },
+  {
+    "id": 1781492034680,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.38861985372874,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-15T02:53:54.680Z"
+  },
+  {
+    "id": 1781492029603,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 56.53578961967557,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-15T02:53:49.603Z"
+  },
+  {
+    "id": 1781492023498,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 45.28875904219984,
+    "ubicacion_camara": "CAM 02 - IP Celular",
+    "fecha_hora": "2026-06-15T02:53:43.498Z"
+  },
+  {
+    "id": 1781491891011,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 54.06767649508322,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-15T02:51:31.011Z"
+  },
+  {
+    "id": 1781487201023,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 58.074016591925904,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-15T01:33:21.023Z"
+  },
+  {
+    "id": 1781487195659,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.711952322636186,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-15T01:33:15.659Z"
+  },
+  {
+    "id": 1781487190465,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.07045032406389,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-15T01:33:10.465Z"
+  },
+  {
+    "id": 1781487184765,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 46.18440070340145,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-15T01:33:04.765Z"
+  },
+  {
+    "id": 1781487179551,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 47.73283359436127,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-15T01:32:59.551Z"
+  },
+  {
+    "id": 1780607656190,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.68733444884988,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:14:16.190Z"
+  },
+  {
+    "id": 1780607644233,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 54.8527062167349,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:14:04.233Z"
+  },
+  {
+    "id": 1780607637105,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 52.77350203212463,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:13:57.105Z"
+  },
+  {
+    "id": 1780607616094,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.9201362053874,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:13:36.094Z"
+  },
+  {
+    "id": 1780607610675,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.688193837454385,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:13:30.675Z"
+  },
+  {
+    "id": 1780607605270,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 57.19360083720255,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:13:25.270Z"
+  },
+  {
+    "id": 1780607599400,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 59.684052174736266,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:13:19.400Z"
+  },
+  {
+    "id": 1780607594286,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 62.46284036698866,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:13:14.286Z"
+  },
+  {
+    "id": 1780607037412,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 55.11451088785524,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:03:57.412Z"
+  },
+  {
+    "id": 1780607032254,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 54.6458929301575,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:03:52.254Z"
+  },
+  {
+    "id": 1780606969109,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 51.667875434822804,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-04T21:02:49.109Z"
+  },
+  {
+    "id": 1780508185028,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 66.91182308299388,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T17:36:25.028Z"
+  },
+  {
+    "id": 1780508176707,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 61.2186194574038,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T17:36:16.707Z"
+  },
+  {
+    "id": 1780508155608,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 76.09742140791028,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T17:35:55.608Z"
+  },
+  {
+    "id": 1780508150285,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 70.84656997590677,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T17:35:50.285Z"
+  },
+  {
+    "id": 1780508144398,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "juan david",
+    "nivel_confianza": 77.30463646725467,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T17:35:44.398Z"
+  },
+  {
+    "id": 1780508139263,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 70.43536270896875,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T17:35:39.263Z"
+  },
+  {
+    "id": 1780508133828,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "cristhian",
+    "nivel_confianza": 73.90996996589494,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T17:35:33.829Z"
+  },
+  {
+    "id": 1780466767268,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "zdas",
+    "nivel_confianza": 66.37539750865746,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T06:06:07.268Z"
+  },
+  {
+    "id": 1780466761644,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "zdas",
+    "nivel_confianza": 69.02006797459508,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T06:06:01.644Z"
+  },
+  {
+    "id": 1780466756080,
+    "tipo_alerta": "SOSPECHOSO",
+    "nombre": "zdas",
+    "nivel_confianza": 67.86346313252488,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T06:05:56.080Z"
+  },
+  {
+    "id": 1780466300025,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 64.92240245884942,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:58:20.025Z"
+  },
+  {
+    "id": 1780466294632,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 59.426180747123645,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:58:14.632Z"
+  },
+  {
+    "id": 1780466289172,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 61.314125050551446,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:58:09.172Z"
+  },
+  {
+    "id": 1780466284130,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 67.49802657154214,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:58:04.131Z"
+  },
+  {
+    "id": 1780466278727,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 56.51195911583924,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:57:58.727Z"
+  },
+  {
+    "id": 1780466273201,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 61.776092671877834,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:57:53.201Z"
+  },
+  {
+    "id": 1780466267696,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 73.0492864282821,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:57:47.697Z"
+  },
+  {
+    "id": 1780466262456,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 63.844027718447904,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:57:42.456Z"
+  },
+  {
+    "id": 1780466256932,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "dfsdfs",
+    "nivel_confianza": 67.36752566760359,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:57:36.932Z"
+  },
+  {
+    "id": 1780465992948,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 61.155790774834394,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:53:12.948Z"
+  },
+  {
+    "id": 1780465985093,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 54.977992259944926,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:53:05.093Z"
+  },
+  {
+    "id": 1780465971891,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 68.49022751067997,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:52:51.891Z"
+  },
+  {
+    "id": 1780465965160,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 53.41376948815339,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:52:45.160Z"
+  },
+  {
+    "id": 1780465959593,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 60.41487807805493,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:52:39.593Z"
+  },
+  {
+    "id": 1780465954471,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 71.16225630443978,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:52:34.471Z"
+  },
+  {
+    "id": 1780465949117,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 70.6871268420404,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:52:29.117Z"
+  },
+  {
+    "id": 1780465943403,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 60.31643871070189,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:52:23.403Z"
+  },
+  {
+    "id": 1780465938445,
+    "tipo_alerta": "DESAPARECIDO",
+    "nombre": "asdasd",
+    "nivel_confianza": 59.34060710802773,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:52:18.445Z"
+  },
+  {
+    "id": 1780464409476,
+    "tipo_alerta": "DESAPARECIDO LOCALIZADO",
+    "nombre": "asdasd",
+    "nivel_confianza": 68.19530472533597,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:26:49.476Z"
+  },
+  {
+    "id": 1780464403875,
+    "tipo_alerta": "DESAPARECIDO LOCALIZADO",
+    "nombre": "asdasd",
+    "nivel_confianza": 74.34408344104335,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:26:43.875Z"
+  },
+  {
+    "id": 1780464398424,
+    "tipo_alerta": "DESAPARECIDO LOCALIZADO",
+    "nombre": "asdasd",
+    "nivel_confianza": 69.07134654809461,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:26:38.424Z"
+  },
+  {
+    "id": 1780464392739,
+    "tipo_alerta": "DESAPARECIDO LOCALIZADO",
+    "nombre": "asdasd",
+    "nivel_confianza": 68.38507535868243,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:26:32.739Z"
+  },
+  {
+    "id": 1780464324178,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "cristhian ",
+    "nivel_confianza": 70.37306573963073,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:25:24.178Z"
+  },
+  {
+    "id": 1780464318778,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "cristhian ",
+    "nivel_confianza": 65.14762641578,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:25:18.778Z"
+  },
+  {
+    "id": 1780464313536,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "cristhian ",
+    "nivel_confianza": 63.94082586656693,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:25:13.536Z"
+  },
+  {
+    "id": 1780464308493,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "cristhian ",
+    "nivel_confianza": 58.86229280609728,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:25:08.493Z"
+  },
+  {
+    "id": 1780464298056,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "cristhian ",
+    "nivel_confianza": 63.14147026656906,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:24:58.056Z"
+  },
+  {
+    "id": 1780464291800,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "cristhian ",
+    "nivel_confianza": 64.48635417175934,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-06-03T05:24:51.800Z"
+  },
+  {
+    "id": 1780184725828,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "uyfuvj",
+    "nivel_confianza": 71.72136547195345,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-05-30T23:45:25.828Z"
+  },
+  {
+    "id": 1780184720585,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "uyfuvj",
+    "nivel_confianza": 65.9980785269911,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-05-30T23:45:20.585Z"
+  },
+  {
+    "id": 1780184715209,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "uyfuvj",
+    "nivel_confianza": 71.66000454614081,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-05-30T23:45:15.209Z"
+  },
+  {
+    "id": 1780184710061,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "uyfuvj",
+    "nivel_confianza": 68.49188470631027,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-05-30T23:45:10.061Z"
+  },
+  {
+    "id": 1780184694526,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "uyfuvj",
+    "nivel_confianza": 64.72531956990231,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-05-30T23:44:54.526Z"
+  },
+  {
+    "id": 1780184689708,
+    "tipo_alerta": "OBJETIVO ENCONTRADO",
+    "nombre": "uyfuvj",
+    "nivel_confianza": 68.16968904967429,
+    "ubicacion_camara": "CAM 01 - Ingreso Principal",
+    "fecha_hora": "2026-05-30T23:44:49.708Z"
+  },
+  {
+    "id": 1780108531793,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.97506976127625,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:35:31.793Z"
+  },
+  {
+    "id": 1780108526744,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.30547714233398,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:35:26.744Z"
+  },
+  {
+    "id": 1780108489216,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 82.36365914344788,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:34:49.216Z"
+  },
+  {
+    "id": 1780108484121,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.30168533325195,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:34:44.121Z"
+  },
+  {
+    "id": 1780108479032,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 77.52243280410767,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:34:39.032Z"
+  },
+  {
+    "id": 1780108451027,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.16603207588196,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:34:11.027Z"
+  },
+  {
+    "id": 1780108446016,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 83.21220278739929,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:34:06.016Z"
+  },
+  {
+    "id": 1780108441040,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.21839690208435,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:34:01.040Z"
+  },
+  {
+    "id": 1780108436224,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 67.49239563941956,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:33:56.224Z"
+  },
+  {
+    "id": 1780107390664,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.15133571624756,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:16:30.664Z"
+  },
+  {
+    "id": 1780107385646,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 81.83248043060303,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:16:25.646Z"
+  },
+  {
+    "id": 1780107380568,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.93938255310059,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:16:20.568Z"
+  },
+  {
+    "id": 1780107375420,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.71783995628357,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:16:15.420Z"
+  },
+  {
+    "id": 1780107370210,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.69327688217163,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:16:10.210Z"
+  },
+  {
+    "id": 1780107364740,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.46737432479858,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:16:04.740Z"
+  },
+  {
+    "id": 1780107359503,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.86903309822083,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:59.503Z"
+  },
+  {
+    "id": 1780107354392,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.6183648109436,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:54.392Z"
+  },
+  {
+    "id": 1780107349210,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.2886073589325,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:49.210Z"
+  },
+  {
+    "id": 1780107344136,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.22804188728333,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:44.136Z"
+  },
+  {
+    "id": 1780107339007,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.17552709579468,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:39.007Z"
+  },
+  {
+    "id": 1780107333650,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.56468796730042,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:33.650Z"
+  },
+  {
+    "id": 1780107328400,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 78.41388583183289,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:28.400Z"
+  },
+  {
+    "id": 1780107323357,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.81182074546814,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:23.357Z"
+  },
+  {
+    "id": 1780107318301,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.31680607795715,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:18.301Z"
+  },
+  {
+    "id": 1780107313167,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.26128554344177,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:13.167Z"
+  },
+  {
+    "id": 1780107308133,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.54001069068909,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:08.133Z"
+  },
+  {
+    "id": 1780107303089,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.00218796730042,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:15:03.089Z"
+  },
+  {
+    "id": 1780107298056,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 72.5787103176117,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:58.056Z"
+  },
+  {
+    "id": 1780107292884,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 82.31462836265564,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:52.884Z"
+  },
+  {
+    "id": 1780107287874,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 83.60158205032349,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:47.874Z"
+  },
+  {
+    "id": 1780107282736,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.93874382972717,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:42.736Z"
+  },
+  {
+    "id": 1780107277655,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.27442121505737,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:37.655Z"
+  },
+  {
+    "id": 1780107272649,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.42541670799255,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:32.649Z"
+  },
+  {
+    "id": 1780107267519,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.17895150184631,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:27.519Z"
+  },
+  {
+    "id": 1780107262359,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.39234805107117,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:22.359Z"
+  },
+  {
+    "id": 1780107257247,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.68949818611145,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:17.247Z"
+  },
+  {
+    "id": 1780107252235,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.9075198173523,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:12.235Z"
+  },
+  {
+    "id": 1780107247197,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.680100440979,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:07.197Z"
+  },
+  {
+    "id": 1780107242082,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.62817668914795,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:14:02.082Z"
+  },
+  {
+    "id": 1780107236990,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.681645154953,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:56.990Z"
+  },
+  {
+    "id": 1780107231932,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.10438513755798,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:51.932Z"
+  },
+  {
+    "id": 1780107226731,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.91503310203552,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:46.731Z"
+  },
+  {
+    "id": 1780107221528,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.16098475456238,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:41.528Z"
+  },
+  {
+    "id": 1780107216504,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 80.99195957183838,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:36.504Z"
+  },
+  {
+    "id": 1780107211321,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.70971488952637,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:31.321Z"
+  },
+  {
+    "id": 1780107206233,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.22242617607117,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:26.233Z"
+  },
+  {
+    "id": 1780107201136,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 82.31143951416016,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:21.136Z"
+  },
+  {
+    "id": 1780107196073,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 70.40504813194275,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:16.073Z"
+  },
+  {
+    "id": 1780107190985,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 81.25534653663635,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:10.985Z"
+  },
+  {
+    "id": 1780107185890,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.2658760547638,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:05.890Z"
+  },
+  {
+    "id": 1780107180823,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 77.22451090812683,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:13:00.823Z"
+  },
+  {
+    "id": 1780107175795,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.79542541503906,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:55.795Z"
+  },
+  {
+    "id": 1780107170644,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.26034259796143,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:50.644Z"
+  },
+  {
+    "id": 1780107165518,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.88218188285828,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:45.518Z"
+  },
+  {
+    "id": 1780107160367,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.4394257068634,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:40.367Z"
+  },
+  {
+    "id": 1780107155223,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.87394762039185,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:35.223Z"
+  },
+  {
+    "id": 1780107150145,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.78209686279297,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:30.145Z"
+  },
+  {
+    "id": 1780107145132,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.68818974494934,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:25.132Z"
+  },
+  {
+    "id": 1780107140130,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.80839443206787,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:20.130Z"
+  },
+  {
+    "id": 1780107135074,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.77977228164673,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:15.074Z"
+  },
+  {
+    "id": 1780107129930,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.91579914093018,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:09.930Z"
+  },
+  {
+    "id": 1780107124882,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.11625742912292,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:12:04.882Z"
+  },
+  {
+    "id": 1780107119793,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.51174211502075,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:59.793Z"
+  },
+  {
+    "id": 1780107114793,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.02009916305542,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:54.793Z"
+  },
+  {
+    "id": 1780107109742,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.91181445121765,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:49.742Z"
+  },
+  {
+    "id": 1780107104732,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.82464861869812,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:44.732Z"
+  },
+  {
+    "id": 1780107099650,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.3009135723114,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:39.650Z"
+  },
+  {
+    "id": 1780107094506,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.39903378486633,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:34.506Z"
+  },
+  {
+    "id": 1780107089420,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 78.98786664009094,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:29.420Z"
+  },
+  {
+    "id": 1780107084038,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.57287263870239,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:24.038Z"
+  },
+  {
+    "id": 1780107079017,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.31925678253174,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:19.017Z"
+  },
+  {
+    "id": 1780107073954,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.19018602371216,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:13.954Z"
+  },
+  {
+    "id": 1780107068869,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.37669491767883,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:08.869Z"
+  },
+  {
+    "id": 1780107063774,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.72363662719727,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:11:03.774Z"
+  },
+  {
+    "id": 1780107058700,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 79.15238738059998,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:58.700Z"
+  },
+  {
+    "id": 1780107053683,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.78016567230225,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:53.683Z"
+  },
+  {
+    "id": 1780107048576,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 81.83347582817078,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:48.576Z"
+  },
+  {
+    "id": 1780107043320,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.17784476280212,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:43.320Z"
+  },
+  {
+    "id": 1780107037669,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.19302320480347,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:37.669Z"
+  },
+  {
+    "id": 1780107032577,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 79.5977234840393,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:32.577Z"
+  },
+  {
+    "id": 1780107027304,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 83.61921906471252,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:27.304Z"
+  },
+  {
+    "id": 1780107022241,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 81.63496255874634,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:22.241Z"
+  },
+  {
+    "id": 1780107017166,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 80.0993800163269,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:17.166Z"
+  },
+  {
+    "id": 1780107012143,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 74.96010065078735,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:12.143Z"
+  },
+  {
+    "id": 1780107006118,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 77.77334451675415,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:06.118Z"
+  },
+  {
+    "id": 1780107001095,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 71.35907411575317,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:10:01.095Z"
+  },
+  {
+    "id": 1780106994025,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 79.20308709144592,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:09:54.025Z"
+  },
+  {
+    "id": 1780106988923,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 83.60453248023987,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:09:48.923Z"
+  },
+  {
+    "id": 1780106976985,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 67.53091812133789,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:09:36.985Z"
+  },
+  {
+    "id": 1780106965746,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 69.07568573951721,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:09:25.746Z"
+  },
+  {
+    "id": 1780106954820,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 83.02322626113892,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:09:14.820Z"
+  },
+  {
+    "id": 1780106949680,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.3724410533905,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:09:09.680Z"
+  },
+  {
+    "id": 1780106944481,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.14429450035095,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:09:04.481Z"
+  },
+  {
+    "id": 1780106939246,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.57344484329224,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:59.246Z"
+  },
+  {
+    "id": 1780106934105,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.37889337539673,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:54.105Z"
+  },
+  {
+    "id": 1780106929081,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.40338683128357,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:49.081Z"
+  },
+  {
+    "id": 1780106923999,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.28650712966919,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:43.999Z"
+  },
+  {
+    "id": 1780106918970,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.56710290908813,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:38.970Z"
+  },
+  {
+    "id": 1780106913925,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.29965496063232,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:33.925Z"
+  },
+  {
+    "id": 1780106908915,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.52365112304688,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:28.915Z"
+  },
+  {
+    "id": 1780106903767,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.37333416938782,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:23.767Z"
+  },
+  {
+    "id": 1780106898778,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.00819611549377,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:18.778Z"
+  },
+  {
+    "id": 1780106893630,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.53530383110046,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:13.630Z"
+  },
+  {
+    "id": 1780106888583,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.24185037612915,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:08.583Z"
+  },
+  {
+    "id": 1780106883497,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.74184489250183,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:08:03.497Z"
+  },
+  {
+    "id": 1780106878492,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.32670450210571,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:58.492Z"
+  },
+  {
+    "id": 1780106873388,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.49132657051086,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:53.388Z"
+  },
+  {
+    "id": 1780106868246,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.41521143913269,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:48.246Z"
+  },
+  {
+    "id": 1780106863063,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.50186061859131,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:43.063Z"
+  },
+  {
+    "id": 1780106857881,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.60973811149597,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:37.881Z"
+  },
+  {
+    "id": 1780106852725,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.99544668197632,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:32.725Z"
+  },
+  {
+    "id": 1780106847650,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.79455423355103,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:27.650Z"
+  },
+  {
+    "id": 1780106842551,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.69535326957703,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:22.551Z"
+  },
+  {
+    "id": 1780106837427,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.22430181503296,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:17.427Z"
+  },
+  {
+    "id": 1780106832303,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.2997453212738,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:12.303Z"
+  },
+  {
+    "id": 1780106827251,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.44090104103088,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:07.251Z"
+  },
+  {
+    "id": 1780106822172,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.84760737419128,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:07:02.172Z"
+  },
+  {
+    "id": 1780106817152,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.00790810585022,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:57.152Z"
+  },
+  {
+    "id": 1780106811895,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.58996033668518,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:51.895Z"
+  },
+  {
+    "id": 1780106806784,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 73.98493885993958,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:46.784Z"
+  },
+  {
+    "id": 1780106801776,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.91857862472534,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:41.776Z"
+  },
+  {
+    "id": 1780106796714,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.45707082748413,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:36.714Z"
+  },
+  {
+    "id": 1780106791700,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.46458101272583,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:31.700Z"
+  },
+  {
+    "id": 1780106786528,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.27465581893921,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:26.528Z"
+  },
+  {
+    "id": 1780106781442,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.25683403015137,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:21.442Z"
+  },
+  {
+    "id": 1780106776427,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.77847003936768,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:16.427Z"
+  },
+  {
+    "id": 1780106771357,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.678293466568,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:11.357Z"
+  },
+  {
+    "id": 1780106766317,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.79210948944092,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:06.317Z"
+  },
+  {
+    "id": 1780106761304,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.79359865188599,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:06:01.304Z"
+  },
+  {
+    "id": 1780106756274,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.9526596069336,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:56.274Z"
+  },
+  {
+    "id": 1780106751214,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.23464918136597,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:51.214Z"
+  },
+  {
+    "id": 1780106746213,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.42042088508606,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:46.213Z"
+  },
+  {
+    "id": 1780106741193,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.4626030921936,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:41.193Z"
+  },
+  {
+    "id": 1780106736162,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.61802911758423,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:36.162Z"
+  },
+  {
+    "id": 1780106731024,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.24980068206787,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:31.024Z"
+  },
+  {
+    "id": 1780106725858,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.97859859466553,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:25.858Z"
+  },
+  {
+    "id": 1780106720828,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.31584763526917,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:20.828Z"
+  },
+  {
+    "id": 1780106715709,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.76907730102539,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:15.709Z"
+  },
+  {
+    "id": 1780106710679,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.69408774375916,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:10.679Z"
+  },
+  {
+    "id": 1780106705480,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.21109342575073,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:05.480Z"
+  },
+  {
+    "id": 1780106700287,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.62972164154053,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:05:00.287Z"
+  },
+  {
+    "id": 1780106695060,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.11412954330444,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:55.060Z"
+  },
+  {
+    "id": 1780106689717,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.18580412864685,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:49.717Z"
+  },
+  {
+    "id": 1780106684517,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.49043345451355,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:44.517Z"
+  },
+  {
+    "id": 1780106679408,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.071040391922,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:39.408Z"
+  },
+  {
+    "id": 1780106674387,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 66.29084348678589,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:34.387Z"
+  },
+  {
+    "id": 1780106669206,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.90746140480042,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:29.206Z"
+  },
+  {
+    "id": 1780106664199,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.97040581703186,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:24.199Z"
+  },
+  {
+    "id": 1780106659155,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.31170105934143,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:19.155Z"
+  },
+  {
+    "id": 1780106654148,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 73.23987483978271,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:14.148Z"
+  },
+  {
+    "id": 1780106649113,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.19101643562317,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:09.113Z"
+  },
+  {
+    "id": 1780106644057,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 83.21481347084045,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:04:04.057Z"
+  },
+  {
+    "id": 1780106638867,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.25817489624023,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:03:58.867Z"
+  },
+  {
+    "id": 1780106633862,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 73.04726839065552,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:03:53.862Z"
+  },
+  {
+    "id": 1780106628835,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 74.9249279499054,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-30T02:03:48.835Z"
+  },
+  {
+    "id": 1780077432854,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.68884038925171,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:57:12.854Z"
+  },
+  {
+    "id": 1780077427794,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.02021837234497,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:57:07.794Z"
+  },
+  {
+    "id": 1780077422772,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.25078701972961,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:57:02.772Z"
+  },
+  {
+    "id": 1780077417732,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.06356883049011,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:57.732Z"
+  },
+  {
+    "id": 1780077412663,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.30388975143433,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:52.663Z"
+  },
+  {
+    "id": 1780077407561,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.01859021186829,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:47.561Z"
+  },
+  {
+    "id": 1780077402501,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.22976446151733,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:42.501Z"
+  },
+  {
+    "id": 1780077397492,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.72907161712646,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:37.492Z"
+  },
+  {
+    "id": 1780077392452,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.60780191421509,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:32.452Z"
+  },
+  {
+    "id": 1780077387396,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.1392457485199,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:27.396Z"
+  },
+  {
+    "id": 1780077382291,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 80.84494471549988,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:22.291Z"
+  },
+  {
+    "id": 1780077377261,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.39319443702698,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:17.261Z"
+  },
+  {
+    "id": 1780077372087,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.99310231208801,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:12.087Z"
+  },
+  {
+    "id": 1780077367026,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.46906328201294,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:07.026Z"
+  },
+  {
+    "id": 1780077361949,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.78976607322693,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:56:01.949Z"
+  },
+  {
+    "id": 1780077356913,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.27787637710571,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:56.913Z"
+  },
+  {
+    "id": 1780077351891,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.3381187915802,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:51.891Z"
+  },
+  {
+    "id": 1780077346850,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.10545206069946,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:46.850Z"
+  },
+  {
+    "id": 1780077341755,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.64521980285645,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:41.755Z"
+  },
+  {
+    "id": 1780077336694,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.69068932533264,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:36.694Z"
+  },
+  {
+    "id": 1780077331520,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.73532128334045,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:31.520Z"
+  },
+  {
+    "id": 1780077326454,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.81318283081055,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:26.454Z"
+  },
+  {
+    "id": 1780077321310,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.9933021068573,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:21.310Z"
+  },
+  {
+    "id": 1780077316174,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.5782163143158,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:16.174Z"
+  },
+  {
+    "id": 1780077311058,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.94042682647705,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:55:11.058Z"
+  },
+  {
+    "id": 1780077239378,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.3113522529602,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:59.378Z"
+  },
+  {
+    "id": 1780077234287,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.6507043838501,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:54.287Z"
+  },
+  {
+    "id": 1780077229246,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.15312886238098,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:49.246Z"
+  },
+  {
+    "id": 1780077224171,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.7185959815979,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:44.171Z"
+  },
+  {
+    "id": 1780077219146,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.06573939323425,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:39.146Z"
+  },
+  {
+    "id": 1780077214085,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.17003464698792,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:34.085Z"
+  },
+  {
+    "id": 1780077209010,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.29743456840515,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:29.010Z"
+  },
+  {
+    "id": 1780077203970,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 79.67258095741272,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:23.970Z"
+  },
+  {
+    "id": 1780077198881,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.30765676498413,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:18.882Z"
+  },
+  {
+    "id": 1780077193765,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 67.60666370391846,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:13.765Z"
+  },
+  {
+    "id": 1780077188707,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 69.80988383293152,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:08.707Z"
+  },
+  {
+    "id": 1780077183673,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.08977890014648,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:53:03.673Z"
+  },
+  {
+    "id": 1780077178487,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.029137134552,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:52:58.487Z"
+  },
+  {
+    "id": 1780077173588,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.54220294952393,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:52:53.588Z"
+  },
+  {
+    "id": 1780076068420,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.56724309921265,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:34:28.420Z"
+  },
+  {
+    "id": 1780076063351,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.60130023956299,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:34:23.351Z"
+  },
+  {
+    "id": 1780076058306,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.4044508934021,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:34:18.306Z"
+  },
+  {
+    "id": 1780076053132,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 93.24917197227478,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:34:13.132Z"
+  },
+  {
+    "id": 1780076048030,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.69781112670898,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:34:08.030Z"
+  },
+  {
+    "id": 1780076043000,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.17036366462708,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:34:03.000Z"
+  },
+  {
+    "id": 1780076037895,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.99882054328918,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:57.895Z"
+  },
+  {
+    "id": 1780076032795,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.36239790916443,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:52.795Z"
+  },
+  {
+    "id": 1780076027756,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.75356030464172,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:47.756Z"
+  },
+  {
+    "id": 1780076022607,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.52177476882935,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:42.607Z"
+  },
+  {
+    "id": 1780076017500,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.53944849967957,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:37.500Z"
+  },
+  {
+    "id": 1780076012382,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.17655062675476,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:32.382Z"
+  },
+  {
+    "id": 1780076007297,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.58806109428406,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:27.297Z"
+  },
+  {
+    "id": 1780076002237,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.34232902526855,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:22.237Z"
+  },
+  {
+    "id": 1780075997230,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 93.11689734458923,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:17.230Z"
+  },
+  {
+    "id": 1780075992170,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 93.1285560131073,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:12.170Z"
+  },
+  {
+    "id": 1780075987084,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.31826663017273,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:07.084Z"
+  },
+  {
+    "id": 1780075981917,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 91.16038680076599,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:33:01.917Z"
+  },
+  {
+    "id": 1780075976848,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 92.52879619598389,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:56.848Z"
+  },
+  {
+    "id": 1780075971769,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.18393754959106,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:51.769Z"
+  },
+  {
+    "id": 1780075966657,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.50890803337097,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:46.657Z"
+  },
+  {
+    "id": 1780075961622,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.4148817062378,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:41.622Z"
+  },
+  {
+    "id": 1780075956512,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.92860913276672,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:36.512Z"
+  },
+  {
+    "id": 1780075951416,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.70706963539124,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:31.416Z"
+  },
+  {
+    "id": 1780075946372,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.15529751777649,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:26.372Z"
+  },
+  {
+    "id": 1780075941326,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.015310049057,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:21.326Z"
+  },
+  {
+    "id": 1780075936240,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.53837251663208,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:16.240Z"
+  },
+  {
+    "id": 1780075931207,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 77.21400260925293,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T17:32:11.207Z"
+  },
+  {
+    "id": 1780071525160,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.97122049331665,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:45.160Z"
+  },
+  {
+    "id": 1780071520114,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.53694581985474,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:40.114Z"
+  },
+  {
+    "id": 1780071515046,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.06572651863098,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:35.046Z"
+  },
+  {
+    "id": 1780071509838,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.9392077922821,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:29.838Z"
+  },
+  {
+    "id": 1780071504831,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.67193746566772,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:24.831Z"
+  },
+  {
+    "id": 1780071499701,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.12609314918518,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:19.701Z"
+  },
+  {
+    "id": 1780071494586,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.9273533821106,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:14.586Z"
+  },
+  {
+    "id": 1780071489555,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.01977443695068,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:09.555Z"
+  },
+  {
+    "id": 1780071484547,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 82.44717717170715,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:18:04.547Z"
+  },
+  {
+    "id": 1780071479524,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.15668821334839,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:17:59.524Z"
+  },
+  {
+    "id": 1780071474379,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.80211806297302,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:17:54.379Z"
+  },
+  {
+    "id": 1780071469308,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.65901231765747,
+    "ubicacion_camara": "Cámara Táctica 01",
+    "fecha_hora": "2026-05-29T16:17:49.308Z"
+  },
+  {
+    "id": 1780071078829,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.6469521522522,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:11:18.829Z"
+  },
+  {
+    "id": 1780071073811,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.18936038017273,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:11:13.811Z"
+  },
+  {
+    "id": 1780071068768,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.75981760025024,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:11:08.768Z"
+  },
+  {
+    "id": 1780071063717,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.99864745140076,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:11:03.717Z"
+  },
+  {
+    "id": 1780071058635,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 82.8196108341217,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:58.635Z"
+  },
+  {
+    "id": 1780071053550,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.4304313659668,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:53.550Z"
+  },
+  {
+    "id": 1780071048463,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.75193881988525,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:48.463Z"
+  },
+  {
+    "id": 1780071043413,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.59373927116394,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:43.413Z"
+  },
+  {
+    "id": 1780071038340,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.99576163291931,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:38.340Z"
+  },
+  {
+    "id": 1780071033333,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.34158277511597,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:33.333Z"
+  },
+  {
+    "id": 1780071028271,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.09920644760132,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:28.271Z"
+  },
+  {
+    "id": 1780071023226,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.1965765953064,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:23.226Z"
+  },
+  {
+    "id": 1780071018105,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.2739315032959,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:18.105Z"
+  },
+  {
+    "id": 1780071013080,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.10236144065857,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:13.080Z"
+  },
+  {
+    "id": 1780071008067,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.39472913742065,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:08.067Z"
+  },
+  {
+    "id": 1780071003037,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.0648581981659,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:10:03.037Z"
+  },
+  {
+    "id": 1780070997979,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.75972414016724,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:57.979Z"
+  },
+  {
+    "id": 1780070992961,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.51617074012756,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:52.961Z"
+  },
+  {
+    "id": 1780070987951,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 85.528963804245,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:47.951Z"
+  },
+  {
+    "id": 1780070982911,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 79.23847436904907,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:42.911Z"
+  },
+  {
+    "id": 1780070977865,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 82.46160745620728,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:37.865Z"
+  },
+  {
+    "id": 1780070972828,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.03719663619995,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:32.828Z"
+  },
+  {
+    "id": 1780070967807,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 82.82167911529541,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:27.807Z"
+  },
+  {
+    "id": 1780070962777,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 82.5066089630127,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:22.777Z"
+  },
+  {
+    "id": 1780070957718,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.06605124473572,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:17.718Z"
+  },
+  {
+    "id": 1780070952693,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.33624029159546,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:12.693Z"
+  },
+  {
+    "id": 1780070947630,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.13771414756775,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:07.630Z"
+  },
+  {
+    "id": 1780070942526,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.7848207950592,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:09:02.526Z"
+  },
+  {
+    "id": 1780070937456,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.14630913734436,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:57.456Z"
+  },
+  {
+    "id": 1780070932418,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.82810378074646,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:52.418Z"
+  },
+  {
+    "id": 1780070927385,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 88.4821355342865,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:47.385Z"
+  },
+  {
+    "id": 1780070922302,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.06965851783752,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:42.302Z"
+  },
+  {
+    "id": 1780070917294,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.40529227256775,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:37.294Z"
+  },
+  {
+    "id": 1780070912241,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.90997672080994,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:32.241Z"
+  },
+  {
+    "id": 1780070907126,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.46164131164551,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:27.126Z"
+  },
+  {
+    "id": 1780070902110,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.79276013374329,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:22.110Z"
+  },
+  {
+    "id": 1780070897064,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 90.40835499763489,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:17.064Z"
+  },
+  {
+    "id": 1780070892041,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 84.30049419403076,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:12.041Z"
+  },
+  {
+    "id": 1780070887006,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 83.88128280639648,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:07.006Z"
+  },
+  {
+    "id": 1780070881898,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 87.21421957015991,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:08:01.898Z"
+  },
+  {
+    "id": 1780070876883,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 86.94420456886292,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:07:56.883Z"
+  },
+  {
+    "id": 1780070872070,
+    "tipo_alerta": "persona_sospechosa",
+    "nivel_confianza": 89.7436261177063,
+    "ubicacion_camara": "Cámara Perimetral Aeropuerto",
+    "fecha_hora": "2026-05-29T16:07:52.070Z"
+  }
+]

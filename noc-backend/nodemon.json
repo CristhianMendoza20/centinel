@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "data.json",
+    "data_*.json",
+    "logs/*",
+    "capturas/*"
+  ]
+}

@@ -1,0 +1,75 @@
+===========================================================
+    GUÍA DE INSTALACIÓN Y EJECUCIÓN - CENTINEL
+===========================================================
+Este documento contiene las instrucciones paso a paso para 
+levantar el entorno completo del proyecto (Base de Datos, 
+Backend, Frontend y el Motor de Inteligencia Artificial).
+
+-----------------------------------------------------------
+1. REQUISITOS PREVIOS
+-----------------------------------------------------------
+Asegúrate de tener instalado lo siguiente en tu sistema:
+- Node.js (v18 o superior)
+- Python (v3.10 o superior)
+- PostgreSQL (v14 o superior)
+
+-----------------------------------------------------------
+2. CONFIGURACIÓN DE LA BASE DE DATOS (POSTGRESQL)
+-----------------------------------------------------------
+1. Abre tu gestor de base de datos preferido (pgAdmin, DBeaver, psql).
+2. Crea una base de datos nueva llamada:
+   vigia_centinel
+3. Abre el archivo "init.sql" ubicado en:
+   proyecto general postgres/noc-backend/init.sql
+4. Copia todo su contenido y ejecútalo dentro de la base de datos "vigia_centinel". Esto creará todas las tablas requeridas.
+5. Verifica el archivo ".env" en la carpeta "noc-backend" y asegúrate de que las credenciales coincidan con las de tu Postgres local:
+   DB_USER=postgres
+   DB_PASSWORD=tu_contraseña_aqui
+   DB_HOST=localhost
+   DB_PORT=5432
+   DB_NAME=vigia_centinel
+
+-----------------------------------------------------------
+3. EJECUTAR EL BACKEND (NODE.JS)
+-----------------------------------------------------------
+1. Abre una nueva terminal.
+2. Navega a la carpeta del backend:
+   cd "proyecto general postgres/noc-backend"
+3. (Solo la primera vez) Instala las dependencias:
+   npm install
+4. Levanta el servidor:
+   npm run dev
+5. El backend estará corriendo en http://localhost:3000
+
+-----------------------------------------------------------
+4. EJECUTAR EL FRONTEND (REACT / VITE)
+-----------------------------------------------------------
+1. Abre una segunda terminal (dejando la del backend abierta).
+2. Navega a la carpeta del frontend:
+   cd "proyecto general postgres/noc-frontend"
+3. (Solo la primera vez) Instala las dependencias:
+   npm install
+4. Levanta la interfaz de usuario:
+   npm run dev
+5. Podrás acceder al sistema desde tu navegador, usualmente en http://localhost:5173
+
+-----------------------------------------------------------
+5. EJECUTAR EL WORKER DE INTELIGENCIA ARTIFICIAL (PYTHON)
+-----------------------------------------------------------
+1. Abre una tercera terminal.
+2. Navega a la carpeta de la IA:
+   cd "proyecto general postgres/noc-ai-worker"
+3. Activa el entorno virtual de Python:
+   En Windows (PowerShell):
+   .\venv\Scripts\Activate.ps1
+   (Si te da error de políticas, ejecuta: Set-ExecutionPolicy Unrestricted -Scope CurrentUser)
+4. (Solo la primera vez) Instala los requerimientos:
+   pip install -r requirements.txt
+5. Inicia el motor de IA:
+   python main.py
+6. El motor cargará la base de datos de rostros/placas y empezará a procesar los videos/cámaras configurados.
+
+-----------------------------------------------------------
+NOTA SOBRE LAS PRUEBAS
+-----------------------------------------------------------
+Una vez levantados los tres servicios, puedes ir al Frontend (http://localhost:5173) y subir la foto de un rostro. Automáticamente, la IA lo detectará en los videos de simulación en 1 o 2 segundos, y verás la alerta reflejada inmediatamente en la pantalla.

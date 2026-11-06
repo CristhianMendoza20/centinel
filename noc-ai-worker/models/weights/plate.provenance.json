@@ -1,0 +1,9 @@
+{
+  "source": "https://huggingface.co/morsetechlab/yolov11-license-plate-detection",
+  "revision": "251a30d7daedca065f56e04b0af04052c907c68f",
+  "sha256": "693133a1db97a3ba1e90068986f80afb72c3fcddb681e57181a89a9a3dc351d6",
+  "original_file": "license-plate-finetune-v1n.onnx",
+  "license": "AGPL-3.0",
+  "purpose": "Plate bounding boxes only; OCR and facial models are separate.",
+  "limitations": "Upstream reports dataset split contamination; local evaluation required. No Bolivia accuracy claim."
+}

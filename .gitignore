@@ -1,0 +1,42 @@
+# Secretos y credenciales
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencias y entornos virtuales
+node_modules/
+**/node_modules/
+venv/
+**/venv/
+venv_ai/
+**/venv_ai/
+venv_ai_old/
+**/venv_ai_old/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Archivos generados y logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Builds y temporales
+noc-frontend/dist/
+dist/
+
+# Capturas y evidencias (conservar solo estructura)
+noc-backend/uploads/*
+!noc-backend/uploads/.gitkeep
+noc-ai-worker/capturas/*
+!noc-ai-worker/capturas/.gitkeep
+
+# IDE y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

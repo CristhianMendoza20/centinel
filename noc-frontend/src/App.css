@@ -1,0 +1,27 @@
+/* CENTINEL v4 — Animaciones de componentes */
+
+/* Barra de progreso del toast (se consume en 10s) */
+.alert-progress {
+  animation: shrink 10s linear forwards;
+}
+
+/* Flash de pantalla al aparecer el toast */
+@keyframes flash {
+  0%   { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+/* Scanline en feeds de video */
+.cam-scanline {
+  position: absolute;
+  left: 0; right: 0;
+  height: 2px;
+  opacity: 0.15;
+  animation: scanline 4s linear infinite;
+  pointer-events: none;
+}
+
+/* Transición de vistas */
+.view-enter {
+  animation: fade-in 0.2s ease-out both;
+}

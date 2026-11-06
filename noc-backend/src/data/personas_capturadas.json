@@ -1,0 +1,200 @@
+[
+  {
+    "id_persona": "3",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_3_19a7a7d7.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_3_19a7a7d7.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_3_19a7a7d7.jpg",
+    "id_local": 1785248812750,
+    "fecha_hora": "2026-07-28T14:26:52.750Z"
+  },
+  {
+    "id_persona": "2",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_2_14fef760.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_2_14fef760.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_2_14fef760.jpg",
+    "id_local": 1785248793678,
+    "fecha_hora": "2026-07-28T14:26:33.678Z"
+  },
+  {
+    "id_persona": "1",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_1_e7cdee9e.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_1_e7cdee9e.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_1_e7cdee9e.jpg",
+    "id_local": 1785248764803,
+    "fecha_hora": "2026-07-28T14:26:04.803Z"
+  },
+  {
+    "id_persona": "1",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_1_cd331a11.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_1_cd331a11.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_1_cd331a11.jpg",
+    "id_local": 1785247517968,
+    "fecha_hora": "2026-07-28T14:05:17.968Z"
+  },
+  {
+    "id_persona": "2",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_2_2c03bfc2.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_2_2c03bfc2.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_2_2c03bfc2.jpg",
+    "id_local": 1785246843226,
+    "fecha_hora": "2026-07-28T13:54:03.226Z"
+  },
+  {
+    "id_persona": "1",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_1_627099b6.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_1_627099b6.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_1_627099b6.jpg",
+    "id_local": 1785246761598,
+    "fecha_hora": "2026-07-28T13:52:41.598Z"
+  },
+  {
+    "id_persona": "7",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_7_231c7433.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_7_231c7433.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_7_231c7433.jpg",
+    "id_local": 1785246504135,
+    "fecha_hora": "2026-07-28T13:48:24.135Z"
+  },
+  {
+    "id_persona": "6",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_6_da58563d.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_6_da58563d.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_6_da58563d.jpg",
+    "id_local": 1785246479859,
+    "fecha_hora": "2026-07-28T13:47:59.859Z"
+  },
+  {
+    "id_persona": "2",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "brayhan ",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_2_34913972.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_2_34913972.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_2_34913972.jpg",
+    "id_local": 1785246445522,
+    "fecha_hora": "2026-07-28T13:47:25.522Z"
+  },
+  {
+    "id_persona": "1",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_1_59676f24.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_1_59676f24.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_1_59676f24.jpg",
+    "id_local": 1785246379770,
+    "fecha_hora": "2026-07-28T13:46:19.770Z"
+  },
+  {
+    "id_persona": "6",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_6_bb887197.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_6_bb887197.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_6_bb887197.jpg",
+    "id_local": 1785244376862,
+    "fecha_hora": "2026-07-28T13:12:56.862Z"
+  },
+  {
+    "id_persona": "1",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_1_8c258f7e.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_1_8c258f7e.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_1_8c258f7e.jpg",
+    "id_local": 1785244306897,
+    "fecha_hora": "2026-07-28T13:11:46.897Z"
+  },
+  {
+    "id_persona": "8",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "brayhan ",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_8_f2cf3aab.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_8_f2cf3aab.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_8_f2cf3aab.jpg",
+    "id_local": 1785176051220,
+    "fecha_hora": "2026-07-27T18:14:11.220Z"
+  },
+  {
+    "id_persona": "6",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "brayhan ",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_6_fba454e6.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_6_fba454e6.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_6_fba454e6.jpg",
+    "id_local": 1785176037370,
+    "fecha_hora": "2026-07-27T18:13:57.370Z"
+  },
+  {
+    "id_persona": "1",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_1_0d67aaf9.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_1_0d67aaf9.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_1_0d67aaf9.jpg",
+    "id_local": 1785175982190,
+    "fecha_hora": "2026-07-27T18:13:02.190Z"
+  },
+  {
+    "id_persona": "2",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_2_723e0c43.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_2_723e0c43.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_2_723e0c43.jpg",
+    "id_local": 1785175722775,
+    "fecha_hora": "2026-07-27T18:08:42.775Z"
+  },
+  {
+    "id_persona": "1",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "cristhian",
+    "tipo": "desaparecido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_1_b5defeae.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_1_b5defeae.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_1_b5defeae.jpg",
+    "id_local": 1785175721816,
+    "fecha_hora": "2026-07-27T18:08:41.816Z"
+  },
+  {
+    "id_persona": "1",
+    "ubicacion_camara": "CAM 01 — Webcam Laptop",
+    "nombre": "Desconocido",
+    "tipo": "desconocido",
+    "foto_persona": "http://localhost:5000/capturas/personas_registradas/PERSONA_1_f06b9774.jpg",
+    "foto_rostro": "http://localhost:5000/capturas/personas_registradas/ROSTRO_1_f06b9774.jpg",
+    "foto_contexto": "http://localhost:5000/capturas/personas_registradas/CONTEXTO_1_f06b9774.jpg",
+    "id_local": 1785175281188,
+    "fecha_hora": "2026-07-27T18:01:21.188Z"
+  }
+]
